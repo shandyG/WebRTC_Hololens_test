@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Samples/MixedReality-WebRTC Ayame/0.5.0/MixedReality-WebRTC Ayame/VideoChatAyameDemo.unity
+- path: Assets/Movie2ndFloor.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
